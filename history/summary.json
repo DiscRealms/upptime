@@ -4,19 +4,19 @@
     "url": "https://discrealms.net",
     "icon": "https://icons.duckduckgo.com/ip3/discrealms.net.ico",
     "slug": "disc-realms-website",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "94.92%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.96%",
-    "time": 565,
-    "timeDay": 308,
-    "timeWeek": 465,
-    "timeMonth": 514,
-    "timeYear": 565,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "69.43%",
+    "uptimeWeek": "95.63%",
+    "uptimeMonth": "99.00%",
+    "uptimeYear": "99.78%",
+    "time": 569,
+    "timeDay": 303,
+    "timeWeek": 449,
+    "timeMonth": 507,
+    "timeYear": 569,
     "dailyMinutesDown": {
-      "2025-09-29": 73
+      "2025-09-29": 440
     }
   },
   {
