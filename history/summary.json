@@ -4,18 +4,20 @@
     "url": "https://discrealms.net",
     "icon": "https://icons.duckduckgo.com/ip3/discrealms.net.ico",
     "slug": "disc-realms-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 579,
-    "timeDay": 642,
-    "timeWeek": 580,
-    "timeMonth": 544,
-    "timeYear": 579,
-    "dailyMinutesDown": {}
+    "time": 577,
+    "timeDay": 442,
+    "timeWeek": 538,
+    "timeMonth": 535,
+    "timeYear": 577,
+    "dailyMinutesDown": {
+      "2025-09-29": 0
+    }
   },
   {
     "name": "Disc Realms Network",
