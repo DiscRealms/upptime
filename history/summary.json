@@ -24,11 +24,11 @@
     "url": "play.discrealms.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "disc-realms-network",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "88.72%",
-    "uptimeWeek": "98.39%",
-    "uptimeMonth": "99.59%",
+    "uptimeDay": "87.81%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "99.56%",
     "uptimeYear": "99.91%",
     "time": 46,
     "timeDay": 158,
@@ -36,7 +36,7 @@
     "timeMonth": 106,
     "timeYear": 46,
     "dailyMinutesDown": {
-      "2025-10-03": 162,
+      "2025-10-03": 175,
       "2025-10-02": 0,
       "2025-09-13": 19
     }
